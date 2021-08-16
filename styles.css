@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
 :root {
     --primary-color: #ffd6d6;
     --dark-grey: #6a6a90;
     --purple: #c300c3;
     --pink: #ff3870;
-    --off-white: #E5E7EB;
+    --off-white: #e5e7eb;
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     background-color: var(--primary-color);
     margin: 0px;
 }
@@ -189,14 +189,6 @@ hr {
     font-size: large;
     color: var(--dark-grey);
 }
-
-
-/* .footer-links i {
-    color: var(--dark-grey);
-    display: inline-block;
-    margin: 30px 0;
-    font-size: 1.75rem;
-} */
 
 .footer i:hover {
     color: var(--pink);
